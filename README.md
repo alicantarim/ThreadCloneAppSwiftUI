@@ -1,4 +1,4 @@
-# ThreadsCloneApp with SwiftUI, Firebase, and Kingfisher
+# ThreadsCloneApp with SwiftUI (with Firebase, and Kingfisher)
 
 ## Introduction
 
