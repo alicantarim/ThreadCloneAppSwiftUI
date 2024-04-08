@@ -23,6 +23,10 @@ This Threads Clone project is not affiliated with or endorsed by Threads or any 
 - Firebase Cloud Storage: Store and serve media files such as images.
 - Kingfisher: Efficiently load and cache images in the app.
 
+## Architecture
+
+- MVVM
+
 ## Application Images
 
 ### SignUp View
